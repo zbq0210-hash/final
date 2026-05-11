@@ -7,13 +7,13 @@ This project explores how generative AI can transform a traditional symbolic int
 The system is designed as a lightweight reflection tool rather than a prediction system.
 
 Setup:
-git clone YOUR_REPOSITORY_LINK
-cd xiaoliu-ren-ai
-python3 -m venv venv
-source venv/bin/activate
-python3 -m pip install -r requirements.txt
-OPENAI_API_KEY=your_api_key_
-python3 -m streamlit run app.py
+#git clone YOUR_REPOSITORY_LINK
+#cd xiaoliu-ren-ai
+#python3 -m venv venv
+#source venv/bin/activate
+#python3 -m pip install -r requirements.txt
+#OPENAI_API_KEY=your_api_key_
+#python3 -m streamlit run app.py
 
 
 ---
