@@ -47,7 +47,7 @@ The system is intended for reflective support and emotional reassurance rather t
 ## Workflow
 
 1. User enters an uncertain personal question
-2. User selects a symbolic trigger number (1–6)
+2. The app uses a simple time-based rule to generate one of six Xiaoliu Ren symbolic states.
 3. The system maps the number to a Xiaoliu Ren symbolic state
 4. The baseline system generates a static interpretation
 5. The GenAI system generates a contextualized reflective response
