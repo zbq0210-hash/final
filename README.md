@@ -6,6 +6,16 @@ This project explores how generative AI can transform a traditional symbolic int
 
 The system is designed as a lightweight reflection tool rather than a prediction system.
 
+Command required:
+git clone YOUR_REPOSITORY_LINK
+cd xiaoliu-ren-ai
+python3 -m venv venv
+source venv/bin/activate
+python3 -m pip install -r requirements.txt
+OPENAI_API_KEY=your_api_key_
+python3 -m streamlit run app.py
+
+
 ---
 
 # 1. Context, User, and Problem
@@ -232,14 +242,17 @@ Can I get a job next month?
 The result of Xiaoji JE, which translates to "small success," symbolizes a period of gradual improvement and modest support. It suggests that while the journey may not be marked by grand achievements, there is potential for steady progress and small victories along the way. This symbol encourages patience and resilience, highlighting the importance of recognizing and celebrating incremental advancements in one's path.
 2. Contextual Reflection
 In the context of your question about finding a job in 2026, the notion of small success invites you to consider the steps you can take now that may lead to positive outcomes in the future. Rather than viewing the search for a job as a singular event, it may be more beneficial to think of it as a journey filled with opportunities for learning and growth. The idea of gradual improvement suggests that each effort you make—whether through skill development, networking, or exploring different avenues—can contribute to your overall progress, even if the results are not immediately visible.
+3. Reflective Suggestions
+Here are three questions to help you reflect on your journey toward finding a job:
+1. What skills or experiences can I cultivate now that will enhance my employability in the future?
+• Consider taking courses, volunteering, or engaging in projects that align with your career goals.
+2. How can I build and nurture my professional network in a way that feels authentic and supportive?
+• Reflect on the relationships you can develop and how they might open doors for you down the line.
+3. What small successes have I achieved in my career journey so far, and how can I celebrate these milestones?
+• Acknowledge your progress, no matter how minor it may seem, as this can boost your confidence and motivation moving forward.
 
 
 
 
 
 
-
-
-
-# 7. Command
-python3 -m pip install -r requirements.txt
